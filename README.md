@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋 Hi, I’m a Full Stack Developer focused on JavaScript/TypeScript  <br>🎓 Wrapping up my BSc in Computer Science  <br>🧑‍💻 7+ years of freelance experience building scalable web apps  <br>🔭 Currently building a [P2P Liars Dice game](https://liars.askardesign.com) & an Event Management App<br>🌱 Exploring DevOps & Cyber Security — always open to advice or mentorship  <br>💬 Ask me about my Homelab — I can talk your ears off!  <br>🤝 Open to collaboration on open-source, dev tools, or anything web-related  <br> 📫 DM me on [Linkedin](https://www.linkedin.com/in/af-askar/) or [Twitter/X](https://x.com/Askar_AF) <br> 📖 Also writing at my [Blog](https://askardesign.com)<br>
+👋 Hi, I’m a Full Stack Developer focused on JavaScript/TypeScript  <br>🎓 Wrapping up my BSc in Computer Science  <br>🧑‍💻 7+ years of freelance experience building scalable web apps  <br>🌱 Exploring DevOps & Cyber Security — always open to advice or mentorship  <br>💬 Ask me about my Homelab — I can talk your ears off!  <br>🤝 Open to collaboration on open-source, dev tools, or anything web-related  <br> 📫 DM me on [Linkedin](https://www.linkedin.com/in/af-askar/) or [Twitter/X](https://x.com/Askar_AF) <br> 📖 Also writing at my [Blog](https://askardesign.com)<br>
 
 
 # 💻 Tech Stack:
